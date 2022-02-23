@@ -19,12 +19,19 @@
       <a href="#about">About The Project</a>
       <ul>
         <li><a href="#recognition_types">Recognition types</a></li>
+          <ul>
+            <li><a href="#general">General</a></li>
+            <li><a href="#color">Color</a></li>
+            <li><a href="#food">Food</a></li>
+        </ul>
       </ul>
     </li>
     <li>
       <a href="#overall_outcomes">Overall Outcomes/Achievements</a>
       <ul>
         <li><a href="#controls">Controls</a></li>
+        <li><a href="#language_setting">Language Setting</a></li>
+        <li><a href="#help">Help</a></li>
       </ul>
     </li>
   </ol>
@@ -45,11 +52,32 @@ Describe It is an app that let anyone with vision impairment or people with low 
 
 ### A person with low vision has multiple recognition type to choose from:
 
+<a name="general"/> 
+
  *	General Recognition: Uses powerful AI to identify the environment of the taken picture.
+ 
+    <p align="center">
+      <img  src="./images/general.jpg" width="270px" height="600px" alt="General">
+      <img  src="./images/general2.jpg" width="270px" height="600px" alt="General-ar">
+    </p>
+    
+    <a name="color"/> 
 
  *	Color Recognition: Can recognize multiple colors of the taken picture.
+
+    <p align="center">
+      <img  src="./images/color.jpg" width="270px" height="600px" alt="color">
+      <img  src="./images/color2.jpg" width="270px" height="600px" alt="color-ar">
+    </p>
+    
+    <a name="food"/> 
  
  *	Food Recognition: Detect the name of any meal and its ingredients.
+
+    <p align="center">
+      <img  src="./images/food.jpg" width="270px" height="600px" alt="Food">
+      <img  src="./images/food2.jpg" width="270px" height="600px" alt="Food-ar">
+    </p>
 
 <a name="overall_outcomes"/>  
 
@@ -57,19 +85,34 @@ Describe It is an app that let anyone with vision impairment or people with low 
 
   <a name="controls"/>  
   
-  ### Controls:
-  
-  * Users can Swipe Left-Or-Right to choose from diffrenet recognition types.
+  * Controls:
+
+    <ul>
+      <ul>
+         <li>Users can Swipe Left-Or-Right to choose from diffrenet recognition types.</li>
+         <li>Users can Long Press anywehre in the screen to display the current recognition type.</li>
+         <li>Users can Click anywhere on the screen and the capture button will follow their touch position.</li>
+       </ul>
+    </ul>
+
+    <p align="center">
+      <img  src="./images/home2.jpg" width="270px" height="600px" alt="Home Page">
+    </p>
     
-  * Users can Long Press anywehre in the screen to display the current recognition type.
-
-  * Users can Click anywhere on the screen and the capture button will follow their touch position.
+  <a name="language_setting"/>  
+    
+  * Users can click on the language setting button to switch between English and Arabic language.
   
-  <p align="center">
-    <img  src="./images/home2.jpg" width="270px" height="600px" alt="Home Page">
-  </p>
+    <p align="center">
+      <img  src="./images/language.jpg" width="270px" height="600px" alt="language">
+      <img  src="./images/language2.jpg" width="270px" height="600px" alt="language-ar">
+    </p>
+        
+  <a name="help"/>  
+    
+  * Users can click on the help button to display the app help system.
   
- 
-
-
-  
+    <p align="center">
+      <img  src="./images/help.jpg" width="270px" height="600px" alt="help">
+      <img  src="./images/help2.jpg" width="270px" height="600px" alt="help-ar">
+    </p>
