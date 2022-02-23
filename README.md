@@ -58,6 +58,9 @@ Describe It is an app that let anyone with vision impairment or people with low 
 
 ### A person with low vision has multiple recognition type to choose from:
 
+
+</br>
+
 <a name="general"/> 
 
  *	General Recognition: Uses powerful AI to identify the environment of the taken picture.
@@ -66,6 +69,8 @@ Describe It is an app that let anyone with vision impairment or people with low 
       <img  src="./images/general.jpg" width="270px" height="600px" alt="General">
       <img  src="./images/general2.jpg" width="270px" height="600px" alt="General-ar">
     </p>
+    
+    </br>
     
     <a name="color"/> 
 
@@ -76,6 +81,8 @@ Describe It is an app that let anyone with vision impairment or people with low 
       <img  src="./images/color2.jpg" width="270px" height="600px" alt="color-ar">
     </p>
     
+    </br>
+    
     <a name="food"/> 
  
  *	Food Recognition: Detect the name of any meal and its ingredients.
@@ -84,6 +91,8 @@ Describe It is an app that let anyone with vision impairment or people with low 
       <img  src="./images/food.jpg" width="270px" height="600px" alt="Food">
       <img  src="./images/food2.jpg" width="270px" height="600px" alt="Food-ar">
     </p>
+    
+    </br>
 
 <a name="overall_outcomes"/>  
 
@@ -131,6 +140,8 @@ Describe It is an app that let anyone with vision impairment or people with low 
   
     - General Capture Result example.
 
+    </br>
+
     <p align="center">
       <img  src="./images/general_res.jpg" width="270px" height="600px" alt="help">
       <img  src="./images/general_res2.jpg" width="270px" height="600px" alt="help-ar">
@@ -140,6 +151,8 @@ Describe It is an app that let anyone with vision impairment or people with low 
     
     - Color Capture Result example.
 
+    </br>
+
     <p align="center">
       <img  src="./images/color_res.jpg" width="270px" height="600px" alt="help">
       <img  src="./images/color_res2.jpg" width="270px" height="600px" alt="help-ar">
@@ -148,6 +161,8 @@ Describe It is an app that let anyone with vision impairment or people with low 
     <a name="food_res"/>  
     
     - Food Capture Result example.
+
+    </br>
 
     <p align="center">
       <img  src="./images/food_res.jpg" width="270px" height="600px" alt="help">
