@@ -18,18 +18,13 @@
     <li>
       <a href="#about">About The Project</a>
       <ul>
-        <li><a href="#built_with">Built With</a></li>
+        <li><a href="#recognition_types">Recognition types</a></li>
       </ul>
     </li>
-    <li><a href="#overall_Outcomes">Overall Outcomes/Achievements</a></li>
     <li>
-      <a href="#how_it_works">How it works</a>
+      <a href="#overall_outcomes">Overall Outcomes/Achievements</a>
       <ul>
-        <li><a href="#create_classification_model">Using Python to create classification model</a></li>
-        <li><a href="#detection_process">Object detection process</a></li>
-        <li><a href="#sudoku_code">Sudoku algorithm</a></li>
-        <li><a href="#tic_tac_toe_code">Tic-Tac-Toe algorithm</a></li>
-        <li><a href="#images">Images</a></li>
+        <li><a href="#controls">Controls</a></li>
       </ul>
     </li>
   </ol>
@@ -46,7 +41,7 @@ Describe It is an app that let anyone with vision impairment or people with low 
 <img  src="./images/home.jpg" width="270px" height="600px" alt="Home Page">
 </p>
 
-<a name="recognition_type"/> 
+<a name="recognition_types"/> 
 
 ### A person with low vision has multiple recognition type to choose from:
 
@@ -60,8 +55,21 @@ Describe It is an app that let anyone with vision impairment or people with low 
 
 ## Overall Outcomes/Achievements
 
-  * Users can click anywhere on the screen and the capture button will follow their touch position.
+  <a name="controls"/>  
+  
+  ### Controls:
+  
+  * Users can Swipe Left-Or-Right to choose from diffrenet recognition types.
+    
+  * Users can Long Press anywehre in the screen to display the current recognition type.
+
+  * Users can Click anywhere on the screen and the capture button will follow their touch position.
   
   <p align="center">
     <img  src="./images/home2.jpg" width="270px" height="600px" alt="Home Page">
   </p>
+  
+ 
+
+
+  
