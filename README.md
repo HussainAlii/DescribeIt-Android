@@ -24,7 +24,7 @@
             <li><a href="#color">Color</a></li>
             <li><a href="#food">Food</a></li>
         </ul>
-      </ul>
+     </ul>
     </li>
     <li>
       <a href="#overall_outcomes">Overall Outcomes/Achievements</a>
@@ -32,6 +32,12 @@
         <li><a href="#controls">Controls</a></li>
         <li><a href="#language_setting">Language Setting</a></li>
         <li><a href="#help">Help</a></li>
+        <li><a href="#capture_examples">Capture Result Examples</a></li>
+          <ul>
+            <li><a href="#general_res">General Capture Result example</a></li>
+            <li><a href="#color_res">Color Capture Result example</a></li>
+            <li><a href="#food_res">Food Capture Result example</a></li>
+          </ul>
       </ul>
     </li>
   </ol>
@@ -115,4 +121,35 @@ Describe It is an app that let anyone with vision impairment or people with low 
     <p align="center">
       <img  src="./images/help.jpg" width="270px" height="600px" alt="help">
       <img  src="./images/help2.jpg" width="270px" height="600px" alt="help-ar">
+    </p>
+
+  <a name="capture_examples"/>  
+  
+  * Capture Result Examples:
+
+    <a name="general_res"/>  
+  
+    - General Capture Result example.
+
+    <p align="center">
+      <img  src="./images/general_res.jpg" width="270px" height="600px" alt="help">
+      <img  src="./images/general_res2.jpg" width="270px" height="600px" alt="help-ar">
+    </p>
+
+    <a name="color_res"/>  
+    
+    - Color Capture Result example.
+
+    <p align="center">
+      <img  src="./images/color_res.jpg" width="270px" height="600px" alt="help">
+      <img  src="./images/color_res2.jpg" width="270px" height="600px" alt="help-ar">
+    </p>
+    
+    <a name="food_res"/>  
+    
+    - Food Capture Result example.
+
+    <p align="center">
+      <img  src="./images/food_res.jpg" width="270px" height="600px" alt="help">
+      <img  src="./images/food_res2.jpg" width="270px" height="600px" alt="help-ar">
     </p>
