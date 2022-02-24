@@ -32,6 +32,7 @@
         <li><a href="#controls">Controls</a></li>
         <li><a href="#language_setting">Language Setting</a></li>
         <li><a href="#help">Help</a></li>
+        <li><a href="#disconnected">Disconnected</a></li>
         <li><a href="#capture_examples">Capture Result Examples</a></li>
           <ul>
             <li><a href="#general_res">General Capture Result example</a></li>
@@ -130,6 +131,15 @@ Describe It is an app that let anyone with vision impairment or people with low 
     <p align="center">
       <img  src="./images/help.jpg" width="270px" height="600px" alt="help">
       <img  src="./images/help2.jpg" width="270px" height="600px" alt="help-ar">
+    </p>
+            
+  <a name="disconnected"/>  
+    
+  * Show Disconnected Alert when The user is not connected to the Internet.
+  
+    <p align="center">
+      <img  src="./images/disconnected.jpg" width="270px" height="600px" alt="disconnected">
+      <img  src="./images/disconnected-ar.jpg" width="270px" height="600px" alt="disconnected-ar">
     </p>
 
   <a name="capture_examples"/>  
