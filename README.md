@@ -49,7 +49,7 @@
 
 ## About The Project
 
-Describe It is an app that let anyone with vision impairment or people with low vision recognize their surrounding by using AI that reads the taken picture and understand it then generate a detailed describtion about what exisit in the picture and describe it out loud. 
+Describe It is an app that let anyone with vision impairment or people with low vision recognize their surrounding by using AI that reads the taken picture and understand it then generate a detailed description about what exist in the picture and describe it out loud.
 
 <p align="center">
 <img  src="./images/home.jpg" width="270px" height="600px" alt="Home Page">
