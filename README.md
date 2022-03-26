@@ -8,7 +8,7 @@
   </a>
   
   <br />
-    <a href="/">View App</a>
+    <a href="https://play.google.com/store/apps/details?id=com.silah.describeit">View App</a>
 </p>
 
  <!-- TABLE OF CONTENTS -->
